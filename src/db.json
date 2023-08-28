@@ -1,0 +1,51 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Overwatch 2 Moments #89",
+      "categoria": "Videogames",
+      "description": "clip de gamplays",
+      "url": "https://www.youtube.com/embed/-cauNeA6mOg"
+    },{
+      "id": 3,
+      "titulo": "Overwatch 2 Moments #89",
+      "categoria": "Videogames",
+      "description": "clip de gamplays",
+      "url": "https://www.youtube.com/embed/-cauNeA6mOg"
+    },
+    {
+      "id": 2,
+      "titulo": "🔶ÉL PERDEDOR HACE QUE SU VECINA IDOL FAMOSA SE ENAMORE DE ÉL",
+      "categoria": "Anime",
+      "description": "Aishang Ta De Liyou RESUMIDO",
+      "url": "https://www.youtube.com/embed/WPNoIZr2TFE"
+    },
+    {
+      "id": 3,
+      "titulo": "11 Gadgets Increíbles Que Puedes Conseguir en Amazon",
+      "categoria": "Gadgets",
+      "description": "Ultimos avances tecnologicos",
+      "url": "https://www.youtube.com/embed/psXgfZvOWBg"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Videogames",
+      "descripcion": "Clips de video juegos",
+      "color": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "nombre": "Anime",
+      "descripcion": "clips y resumenes de animes",
+      "color": "#00C86F"
+    },
+    {
+      "id": 3,
+      "nombre": "Gadgets",
+      "descripcion": "los ultimos avances de la tecnoliga",
+      "color": "#FE8C2A"
+    }]
+  
+}
